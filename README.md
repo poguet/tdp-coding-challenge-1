@@ -8,4 +8,5 @@ Had difficulties with structuring html, had many sessions with class mates learn
 
 <img width="504" alt="read me screenshot" src="https://user-images.githubusercontent.com/118129483/206632488-78527cd5-690e-437e-b911-60a8499a719e.png">
 
-github url - https://poguet.github.io/tdp-coding-challenge-1/#social-media-marketing
+## link
+ - https://poguet.github.io/tdp-coding-challenge-1/#social-media-marketing
