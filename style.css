@@ -1,17 +1,17 @@
 /* GENERAL STYLES */
-
+/* universal selctor*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/*semantic element-body*/
 body {
     background-color: #d9dcd6;
 }
 
 /* HEADER */
-
+/*semantic element-header*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,7 +46,7 @@ header nav ul li {
 }
 
 /* TEXT STYLES */
-
+/*css text font & color*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -57,18 +57,18 @@ p {
 }
 
 /* HERO DIV WITH BACKGROUND IMAGE */
-
+/* hero class selector*/
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("./images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
 
 /* FLOATS */
-/*class css selector*/
+/* css class selector*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -80,7 +80,7 @@ p {
 }
 
 /* MAIN */
-
+/*semantic element-main*/
 main {
     width: 75%;
     display: inline-block;
@@ -88,7 +88,7 @@ main {
 }
 
 /* BENEFITS ASIDE */
-
+/*css class selctor*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -117,7 +117,7 @@ main {
 }
 
 /* SERVICES SECTIONS */
-
+/*css class selctor*/
 .service {
     margin-bottom: 20px;
     padding: 50px;
@@ -137,7 +137,7 @@ main {
 }
 
 /* FOOTER */
-
+/*semantic element-footer*/
 footer {
     padding: 30px;
     clear: both;
